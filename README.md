@@ -7,4 +7,6 @@ Follow these steps to run the app:
 3. run `node bamazonCustomer.js`
 
 Screenshot: 
+
+
 ![Alt text](./Screenshot.PNG?raw=true "Optional Title")
