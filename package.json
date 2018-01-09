@@ -9,6 +9,7 @@
   "author": "Ben Harloe",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^5.0.0"
+    "inquirer": "^5.0.0",
+    "mysql": "^2.15.0"
   }
 }
