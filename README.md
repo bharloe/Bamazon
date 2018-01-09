@@ -3,10 +3,11 @@ This is a simple application made to demo node command line and SQL interactivit
 
 Follow these steps to run the app:
 1. clone repo
-2. run `npm install`
-3. run `node bamazonCustomer.js`
+2. Create MySQL database using bamazon.sql
+3. Update your database credentials (bamazonCustomer.js lines 12 and 13)
+3. run `npm install`
+4. run `node bamazonCustomer.js`
 
 Screenshot: 
-
 
 ![Alt text](./Screenshot.PNG?raw=true "Optional Title")
