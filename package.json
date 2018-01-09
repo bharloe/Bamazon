@@ -1,0 +1,14 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A simple command line SQL interface demo",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Harloe",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.0.0"
+  }
+}
